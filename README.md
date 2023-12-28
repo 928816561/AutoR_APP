@@ -5,15 +5,6 @@ Android空壳模板工程，快速搭建（集成了XUI、XUtil、XAOP、XPage�
 **【Kotlin版本】** 如果你想使用Kotlin语言，那么请移步[TemplateAppProject-kotlin](https://github.com/xuexiangjys/TemplateAppProject-kotlin)
 
 
-
-## 效果
-
-![templateproject_demo.gif](https://raw.githubusercontent.com/xuexiangjys/Resource/master/img/templateproject/demo.gif)
-
-## Star趋势图
-
-[![Stargazers over time](https://starchart.cc/xuexiangjys/TemplateAppProject.svg)](https://starchart.cc/xuexiangjys/TemplateAppProject)
-
 ## 集成介绍（请star支持）
 
 > 本项目是项目androidx项目。精选了X系列最实用的几个库，可大大提高开发的效率。
